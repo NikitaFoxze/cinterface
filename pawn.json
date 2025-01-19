@@ -1,5 +1,6 @@
 {
 	"user": "NikitaFoxze",
 	"repo": "cinterface",
+	"contributors": ["oscar-broman"],
 	"dependencies": ["sampctl/samp-stdlib"]
 }
